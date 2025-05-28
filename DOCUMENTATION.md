@@ -62,7 +62,7 @@ Where `A` and `B` are constants from the MQ2 datasheet (varies by gas type).
 
 ## Constant's A and B 
 The constants value is not given in many datasheets so you may have to find on your own .
-First of we have to understand that the MQ2 sensor responda to change in multiple gases ,following is its sensitivity curve provided in the datasheet
+First of all we have to understand that the MQ2 sensor responds to change in multiple gases ,following is its sensitivity-curve provided in the datasheet
 
 ![Curve](images/CURVE.png)
 
