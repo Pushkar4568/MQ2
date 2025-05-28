@@ -1,5 +1,5 @@
 # MQ2-
- MQ2 sensor driver , MCU - STM32F401CCU6 (BLACK PILL)
+ MQ2 sensor driver using STM32 BlackPill, MCU - STM32F401CCU6 (BLACK PILL)
 
  # MQ2 Gas Sensor Driver for STM32F401CCU6
 
